@@ -22,6 +22,7 @@
     // Azure Static Web Apps
     4280
   ],
+  "ghcr.io/dotnet/aspire-devcontainer-feature/dotnetaspire:1": {}
 
   "features": {
     // Uncomment the below to install Azure CLI
